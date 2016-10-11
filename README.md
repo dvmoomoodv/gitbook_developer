@@ -6,7 +6,9 @@
 
 브런치 =&gt;https:\/\/brunch.co.kr\/@moomoolee\(https:\/\/brunch.co.kr\/@moomoolee\)
 
-깃북을 이용하여 글쓰는 연습을 하자
+깃북 =&gt; https:\/\/www.gitbook.com\/@dvmoomoodv
+
+을 이용하여 글쓰는 연습을 하자
 
 그리고
 
