@@ -16,3 +16,14 @@
 
 하이브리드앱을 하나 만들기
 
+
+
+
+요맨, 걸프, 보우어, NPM을 이용하여 프론트엔드단을 완성한뒤 백엔드를 PHP Codeigniter로 완성
+
+
+http://yeoman.io/
+http://gulpjs.com/
+https://www.npmjs.com/
+https://bower.io/
+
