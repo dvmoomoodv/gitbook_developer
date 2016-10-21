@@ -3,17 +3,19 @@
 
 ### 소개
 
-	Codeigniter		- PHP Framework  
-	Bootstrap		- Frontend Framework  
-	AWS SDK			- AWS Service SDK  
-	FPDF			- PDF Export Library  
-	PHPExcel		- Excel Export Library  
-	PHPMailer		- Mail Service Helper Library  
+| 기술 | 설명 |
+| -- | -- |
+| Codeigniter | PHP Framework |
+| Bootstrap | Frontend Framework |
+| AWS SDK | AWS Service SDK |
+| FPDF | PDF Export Library |
+| PHPExcel | Excel Export Library |
+| PHPMailer | Mail Service Helper Library  |
 
-###### Font
-
-	NotoSans		- Google   
-	FontAwesome		- twitter
+| 폰트 | 설명 |
+| -- | -- |
+| NotoSans | Google |
+| FontAwesome | twitter |
 
 ### 기능
 
