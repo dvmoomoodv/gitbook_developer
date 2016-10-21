@@ -1,5 +1,5 @@
-![logo](https://www.theclassprep.com/assets/classprep/images/logo/main-logo-shadow.png)
 
+# ClassPrep 기술서
 
 ### 소개
 
